@@ -1,0 +1,53 @@
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
+#EXTINF:-1 tvgid="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim East 720p (D)" group-title="Entertainment",Adult Swim East 720p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim East 360p (D)" group-title="Entertainment",Adult Swim East 360p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim West 780p (D)" group-title="Entertainment",Adult Swim West 780p (D) 
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim West 360p (D)" group-title="Entertainment",Adult Swim West 360p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN 720p (D)" group-title="News",CNN 720p (D)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN 480p (D)" group-title="News",CNN 480p (D)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 720p (D)" group-title="Entertainment",TBS East 720p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 480p (D)" group-title="Entertainment",TBS East 480p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East 360p (D)" group-title="Entertainment",TBS East 360p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West 720p (D)" group-title="Entertainment",TBS West 720p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West 480p (D)" group-title="Entertainment",TBS West 480p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West 360p (D)" group-title="Entertainment",TBS West 360p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM 720p (D)" group-title="Movies",TCM 720p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM 432p (D)" group-title="Movies",TCM 432p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East 720p (D)" group-title="Entertainment",TNT East 720p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East 480p (D)" group-title="Entertainment",TNT East 480p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East 360p (D)" group-title="Entertainment",TNT East 360p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West 720p (D)" group-title="Entertainment",TNT West 720p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West 480p (D)" group-title="Entertainment",TNT West 480p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West 360p (D)" group-title="Entertainment",TNT West 360p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East 720p (D)" group-title="Entertainment",truTV East 720p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East 480p (D)" group-title="Entertainment",truTV East 480p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East 360p (D)" group-title="Entertainment",truTV East 360p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West 720p (D)" group-title="Entertainment",truTV West 720p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West 480p (D)" group-title="Entertainment",truTV West 480p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West 360p (D)" group-title="Entertainment",truTV West 360p (D)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_3_1464000.m3u8
