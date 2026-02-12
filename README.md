@@ -1,3 +1,5 @@
+# Direct
+This repo is for direct streams from the public sites. 
 
 ## Disclaimers:
 The links provided on this platform are shared solely for informational and educational purposes. They may direct users to publicly available online streams or websites operated by third parties. We do not host, upload, or distribute any audiovisual content, nor do we have any affiliation or partnership with the broadcasting entities or website operators linked herein.
