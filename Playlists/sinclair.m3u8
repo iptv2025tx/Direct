@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar (D)" group-title="Entertainment",Roar (D)
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! (D)" group-title="Entertainment",Charge (D)
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet TV (D)" group-title="Entertainment",Comet (D)
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest (D)" group-title="Entertainment",The Nest (D)
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8 
