@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
+#EXTINF:-1 tvg-id="Estrella.TV.us2" tvg-name="Estrella TV FHD1" group-title="Spanish",Estrella TV FHD1
+https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="Estrella.TV.us2" tvg-name="Estrella TV FHD2" group-title="Spanish",Estrella TV FHD2
+https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/ts-us-w2-n2/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="curiosity.stream.dummy.us" tvg-name="Curiousity Stream Español" group-title="Spanish",Curiousity Stream Español
+https://amg00567-amg00567c7-estrellamedia-us-5161.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-curiosityespanol-estrellamediaus/playlist.m3u8
+#EXTINF:-1 tvg-id="ESTRELLA.NEWS.us2" tvg-name="Estrella News FHD1" group-title="Spanish",Estrella News FHD1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="ESTRELLA.NEWS.us2" tvg-name="Estrella News FHD2" group-title="Spanish",Estrella News FHD2
+https://amg00567-estrellamedia-estrellanews-estrellamedia-jrwr5.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="plex.tv.Estrella.Games.plex" tvg-name="Estrella Games FHD1" group-title="Spanish",Estrella Games FHD1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="plex.tv.Estrella.Games.plex" tvg-name="Estrella Games FHD2" group-title="Spanish",Estrella Games FHD2
+https://amg00567-estrellamedia-estrellagames-estrellamedia-zy1f4.amagi.tv/playlist/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="curiosity.stream.dummy.us" tvg-name="Curiousity Stream Motores" group-title="Spanish",Curiousity Stream Motores
+https://amg00567-amg00567c8-estrellamedia-us-5162.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-curiositymotores-estrellamediaus/playlist.m3u8
+#EXTINF:-1 tvg-id="curiosity.stream.dummy.us" tvg-name="Curiousity Stream Animales1" group-title="Spanish",Curiousity Stream Animales1
+https://amg00567-amg00567c7-estrellamedia-us-5161.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-curiosityespanol-estrellamediaus/playlist.m3u8
